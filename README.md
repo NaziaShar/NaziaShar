@@ -3,7 +3,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/your-username?affiliations=OWNER&style=social)
-
 ---
 
 ## 🚀 About Me  
