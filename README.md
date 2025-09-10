@@ -28,12 +28,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
----
-
-### 📚 Certifications
-
-- 🧠 [Deep Learning Specialization – Coursera (Andrew Ng)](https://www.coursera.org/account/accomplishments/specialization/WYMT75ZMFFFK)
-- 🤖 [Machine Learning Specialization – Coursera (Andrew Ng)](https://www.coursera.org/account/accomplishments/specialization/EVM9R8VS8322)
 
 ---
 
